@@ -17,9 +17,9 @@ extensions = ['rightquote', 'sphinx_carousel.carousel', 'redsection']
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'savinda'
-copyright = '2023, savinda'
-author = 'savinda'
+project = 'python sphinx project'
+copyright = '2023'
+author = 'kasun'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
